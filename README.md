@@ -20,5 +20,9 @@ Changelog
 ---
 
 2018-02-26 Update for [OXID 6](../../tree/oxid_6) by Josef A. Puckl | [eComStyle.de](https://ecomstyle.de)
+
 2015-01-22 Update for OXID 4.9 by ProudCommerce (www.proudcommerce.com)
-2015-12-14 Some bugfixes, update for 4.9.6  
+
+2015-12-14 Some bugfixes, update for 4.9.6
+
+
